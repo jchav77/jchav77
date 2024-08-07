@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 <img align = "right" alt="coding" width = "400" src= "https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMDk3NTEsIm5iZiI6MTcyMzAwOTQ1MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDA1NDQxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiYWEzNGZjOGQ4YzQyNjE4MjFmZjg4MTA2ZDM5YTUzMTE3NzM5YjdkMjA1ZGQ4ODJjYzBjODM2OGNhYzI4ZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jY8A1uznf8TD1cgr73kDTEqRVvRCmmy7Ab_GS0mzjuc">
 
-<h3 align="center">A passionate Python Developer and Cybersecurity Professional with expertise in data analysis, automation, and third-party risk management.</h3>
+<h3 align="center">A passionate Python Developer and Cybersecurity Professional with expertise in data analysis, automation, and Cyber Threat Intelligence.</h3>
 
 - 🌟 **Technical Skills:** Python, SQL, Power BI, data visualization, and automation.
 - 🔍 **Experienced in:** Log analysis using Splunk and QRadar, cybersecurity incident response with CrowdStrike and SentinelOne, and third-party risk management with KY3P.
