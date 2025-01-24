@@ -3,7 +3,7 @@
 
 <h3 align="left">A passionate DevOps Engineer, Machine Learning Enthusiast, and Cybersecurity Professional with expertise in automation, cloud technologies, and data analytics.</h3>
 
-- 🛡️ **Current Role:** Data Analytics Engineer at the Department of State (Contractor), with previous experience as a SOC Analyst Lead at CyberNowLabs.  
+- 🛡️ **Current Role:** Data Analytics at the Department of State (Contractor), with previous experience as a SOC Analyst Lead at CyberNowLabs.  
 - 🌟 **Technical Skills:**  
   - **Programming:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Java, PostgreSQL, Bash  
   - **DevOps & Cloud:** AWS (EC2, RDS, S3, IAM, VPC, Lambda), Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab  
